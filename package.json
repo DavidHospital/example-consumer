@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.4",
     "prop-types": "latest",
     "react": "^16.13.1",
     "react-dom": "16.12.0",
@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@pact-foundation/pact": "^9.12.2",
-    "@pact-foundation/pact-node": "^10.10.1",
+    "@pact-foundation/pact-node": "^10.17.1",
     "@testing-library/jest-dom": "4.2.4",
     "@typescript-eslint/eslint-plugin": "^2.34.0",
     "@typescript-eslint/parser": "^2.34.0",
